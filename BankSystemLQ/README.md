@@ -1,2 +1,2 @@
 # BankSystem
-Springboot demo project
+Learning about Spring Boot yee-haw
