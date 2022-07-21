@@ -1,2 +1,2 @@
-# Bank-System
+# BankSystem
 Springboot demo project
