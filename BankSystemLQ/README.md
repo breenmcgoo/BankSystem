@@ -1,2 +1,2 @@
 # BankSystem
-Learning about Spring Boot yee-haw
+Learning about Spring Boot YEE-HAW
